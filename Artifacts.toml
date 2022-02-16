@@ -1,0 +1,6 @@
+["cytoscape.min.js"]
+git-tree-sha1 = "990fbf11198f0c7645a5723941820de8748e6acf"
+
+    [["cytoscape.min.js".download]]
+    sha256 = "c255b482ff641cfa6c795b92b9670dfd529b318713ddc397dc333f121127ad33"
+    url = "https://github.com/joshday/CytoscapeJS.jl/releases/download/artifacts_2022-02-16/cytoscape_jl.tar.gz"

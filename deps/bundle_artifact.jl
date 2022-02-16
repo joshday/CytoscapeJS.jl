@@ -32,7 +32,7 @@ try
     add_artifact!(
         "Artifacts.toml",
         "cytoscape.min.js",
-        "https://github.com/joshday/CytoscapeJS.jl/releases/download/$artifacts_today/plotly.tar.gz",
+        "https://github.com/joshday/CytoscapeJS.jl/releases/download/$artifacts_today/cytoscape_jl.tar.gz",
         force=true,
     )
 catch ex
